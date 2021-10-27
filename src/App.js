@@ -11,7 +11,6 @@ import { getSelectedColor } from "./redux/colors/colors-selector";
 
 function App() {
   const selectedColor = useSelector(getSelectedColor);
-  console.log(selectedColor);
 
   return (
     <div className="App">

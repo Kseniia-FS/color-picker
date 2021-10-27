@@ -86,7 +86,7 @@ export default function ColorByFamily() {
 
         return setColors(
           [...gold, ...gold2, ...gold3, ...gold4]
-            .splice(0, 99)
+            .splice(0, 82)
             .sort((a, b) => Number(b.id) - Number(a.id))
         );
 
