@@ -12,7 +12,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 `Using this program you can:`
 
 **Choose color in cataloge**
+
 **Find color by name or number**
+
 **Choose color by color-family**
+
 **Look through design color scheme**
+
 **Save you favourite colors**
