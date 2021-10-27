@@ -1,13 +1,18 @@
 # Interior color matching program \*\*\*In developing\*\*\*
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tools:
+
+    -React App
+    -Redux
+    -Styled components/@Emotion
+    -MaterialUI
 
 ## Color Cataloges:
 
-         -NCS
-         -RAL
-         -Tikkurila
-         -Caparol
+    -NCS
+    -RAL
+    -Tikkurila
+    -Caparol
 
 `Using this program you can:`
 
