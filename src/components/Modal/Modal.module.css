@@ -1,0 +1,24 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(248, 246, 246);
+  z-index: 1200;
+}
+
+.modal {
+  position: relative;
+  width: calc(100vw - 30px);
+  height: calc(100vh - 30px);
+}
+
+.modal > h2 {
+  font-size: 24px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
