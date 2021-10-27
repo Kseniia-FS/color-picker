@@ -1,0 +1,98 @@
+{
+  "white": [
+    { "id": "333202", "color": "rgb(236, 236, 231)", "name": "RAL 9003" },
+    { "id": "1050", "color": "#CBB6CF", "name": "Viola 85" },
+    { "id": "54", "color": "#6C5459", "name": "Rose 65" },
+    { "id": "817", "color": "#D0D9DC", "name": "Coelin 50" },
+    { "id": "980", "color": "#636B83", "name": "Lavendel 70" },
+    { "id": "263", "color": "#C4BEB6", "name": "Siena 20" }
+  ],
+  "red": [
+    { "id": "65", "color": "#864751", "name": "Baccara 10" },
+    { "id": "1037", "color": "#EEEDE8", "name": "Viola 30" },
+    { "id": "8", "color": "#D8D8D5", "name": "Grau 55" },
+    { "id": "419", "color": "#E0C59C", "name": "Palazzo 205" },
+    { "id": "744", "color": "#8B9B96", "name": "Patina 50" },
+    { "id": "396", "color": "#615D56", "name": "Palazzo 70" }
+  ],
+  "orange": [
+    { "id": "218", "color": "#EF7C4A", "name": "Aprico 140" },
+    { "id": "250", "color": "#F3CFB5", "name": "Cermic 75" },
+    { "id": "402", "color": "#F1ECDD", "name": "Palazzo 90" },
+    { "id": "526", "color": "#989274", "name": "Melisse 70" },
+    { "id": "459", "color": "#E1D8C0", "name": "Ginster 55" },
+    { "id": "556", "color": "#615F44", "name": "Tundra 65" }
+  ],
+  "gold": [
+    { "id": "427", "color": "#D4B588", "name": "Palazzo 225" },
+    { "id": "481", "color": "#F1EDDE", "name": "Curry 25" },
+    { "id": "635", "color": "#AEB49E", "name": "Moos 75" },
+    { "id": "796", "color": "#637D85", "name": "Arctis 35" },
+    { "id": "792", "color": "#606B6D", "name": "Arctis 5" },
+    { "id": "452", "color": "#EEEBE4", "name": "Ginster 30" }
+  ],
+  "yellow": [
+    { "id": "506", "color": "#F5D65C", "name": "Curry 140" },
+    { "id": "333202", "color": "rgb(236, 236, 231)", "name": "RAL 9003" },
+    { "id": "58", "color": "#8C5C66", "name": "Rose 105" },
+    { "id": "799", "color": "#C0DEE2", "name": "Arctis 85" },
+    { "id": "827", "color": "#98D6EC", "name": "Coelin 115" },
+    { "id": "665", "color": "#496740", "name": "Oase 95" }
+  ],
+  "lime": [
+    { "id": "579", "color": "#D8DE8A", "name": "Mai 85" },
+    { "id": "40", "color": "#EBE0DD", "name": "Rose 15" },
+    { "id": "630", "color": "#B9BBB5", "name": "Moos 45" },
+    { "id": "51", "color": "#BD949A", "name": "Rose 80" },
+    { "id": "749", "color": "#A2D4C8", "name": "Patina 85" },
+    { "id": "776", "color": "#D0ECE8", "name": "Verona 120" }
+  ],
+  "green": [
+    { "id": "669", "color": "#80A768", "name": "Oase 135" },
+    { "id": "673", "color": "#C9CBC5", "name": "Agave 20" },
+    { "id": "672", "color": "#EBEDE5", "name": "Agave 30" },
+    { "id": "590", "color": "#EBECE0", "name": "Jade 60" },
+    { "id": "784", "color": "#076E6E", "name": "Verona 125" },
+    { "id": "35", "color": "#E9F3EB", "name": "Off White 40" }
+  ],
+  "teal": [
+    { "id": "782", "color": "#199195", "name": "Verona 135" },
+    { "id": "773", "color": "#A4B3B2", "name": "Verona 80" },
+    { "id": "355", "color": "#FCB65C", "name": "Onyx 230" },
+    { "id": "446", "color": "#B4863A", "name": "Palazzo 305" },
+    { "id": "602", "color": "#7F8365", "name": "Jade 65" },
+    { "id": "569", "color": "#DEDCD1", "name": "Mai 25" }
+  ],
+  "blue": [
+    { "id": "861", "color": "#265367", "name": "Pacific 125" },
+    { "id": "394", "color": "#A39D92", "name": "Palazzo 80" },
+    { "id": "443", "color": "#E4AE3D", "name": "Palazzo 320" },
+    { "id": "450", "color": "#E6AE28", "name": "Palazzo 345" },
+    { "id": "794", "color": "#A5B2B4", "name": "Arctis 50" },
+    { "id": "34", "color": "#ECEFED", "name": "Off White 50" }
+  ],
+  "violet": [
+    { "id": "1060", "color": "#55405C", "name": "Viola 95" },
+    { "id": "1052", "color": "#807085", "name": "Viola 75" },
+    { "id": "958", "color": "#8894AB", "name": "Aquarell 70" },
+    { "id": "778", "color": "#639A9B", "name": "Verona 105" },
+    { "id": "1102", "color": "#785460", "name": "Flamenco 95" },
+    { "id": "37", "color": "#EEEBE4", "name": "Rose 30" }
+  ],
+  "cold": [
+    { "id": "6", "color": "#747374", "name": "Grau 5" },
+    { "id": "333202", "color": "rgb(236, 236, 231)", "name": "RAL 9003" },
+    { "id": "1149", "color": "#A9242F", "name": "Rubin 10" },
+    { "id": "1", "color": "#ECECE6", "name": "Grau 30" },
+    { "id": "792", "color": "#606B6D", "name": "Arctis 5" },
+    { "id": "23", "color": "#F0EFE8", "name": "Grau-Weiss" }
+  ],
+  "warm": [
+    { "id": "135", "color": "#ECEAE5", "name": "Cameo 30" },
+    { "id": "140", "color": "#9A8D8A", "name": "Cameo 5" },
+    { "id": "146", "color": "#A5928D", "name": "Cameo 40" },
+    { "id": "1089", "color": "#9A8E94", "name": "Flamenco 40" },
+    { "id": "967", "color": "#CACCD2", "name": "Lavendel 20" },
+    { "id": "235", "color": "#D6C9C1", "name": "Ceramic 30" }
+  ]
+}

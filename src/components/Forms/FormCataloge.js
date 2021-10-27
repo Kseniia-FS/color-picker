@@ -19,7 +19,7 @@ export const FormCataloges = () => {
         <option>Выберите каталог</option>
         <option value="caparol">Caparol</option>
         {/* <option value="sadolin">Sadolin</option> */}
-        {/* <option value="tikkurila">Tikkurila</option> */}
+        <option value="tikkurila">Tikkurila</option>
         <option value="ral">RAL</option>
         <option value="ncs">NCS</option>
         {/* <option value="dulux">Dulux</option> */}

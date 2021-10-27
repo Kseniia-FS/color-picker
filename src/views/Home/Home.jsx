@@ -26,6 +26,16 @@ export default function Home() {
           Обзор по каталогу
         </Link>
       </li>
+      <li>
+        <Link
+          to={{
+            state: { from: location.pathname },
+            pathname: `/design`,
+          }}
+        >
+          Готовые дизайн решения
+        </Link>
+      </li>
     </ul>
   );
 }

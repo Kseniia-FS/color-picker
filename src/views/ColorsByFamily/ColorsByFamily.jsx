@@ -3,7 +3,6 @@ import data from "../../colorsData/caparol3dsystem.json";
 import { useState, useEffect } from "react";
 
 import { OneColor } from "../../components/OneColor/OneColor";
-import { textAlign } from "@mui/system";
 
 export default function ColorByFamily() {
   const [colors, setColors] = useState([]);
@@ -46,9 +45,12 @@ export default function ColorByFamily() {
         const red5 = data.ncs.filter((el) =>
           el.name.toLowerCase().includes("y90r")
         );
+        const red6 = data.tikkurila.filter((el) =>
+          el.name.toLowerCase().includes("323")
+        );
 
         return setColors(
-          [...red, ...red1, ...red2, ...red3, ...red4, ...red5]
+          [...red, ...red1, ...red2, ...red3, ...red4, ...red5, ...red6]
             .splice(0, 205)
             .sort((a, b) => Number(b.id) - Number(a.id))
         );
